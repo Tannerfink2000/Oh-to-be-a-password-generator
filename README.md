@@ -21,3 +21,5 @@ The function then generates a random password by selecting characters at random 
 The function returns the generated password.
 
 [screencapture-127-0-0-1-5500-Challenge-02-Challenge-Develop-index-html-2023-02-26-10_19_09.pdf](https://github.com/Tannerfink2000/Oh-to-be-a-password-generator/files/10834400/screencapture-127-0-0-1-5500-Challenge-02-Challenge-Develop-index-html-2023-02-26-10_19_09.pdf)
+
+https://tannerfink2000.github.io/Oh-to-be-a-password-generator/
